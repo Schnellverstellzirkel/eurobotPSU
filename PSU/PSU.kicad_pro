@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.2,
+          "height": 2.4,
+          "width": 2.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -379,13 +379,14 @@
         "microvia_drill": 0.1,
         "name": "POWER",
         "nets": [
+          "+12V",
+          "+24V",
+          "+5V",
+          "/12VOUTPOSTEMER",
           "/12VOUTPREIND",
           "/5VOUTPREIND",
           "/VBAT",
-          "12VOUT",
-          "5VOUT",
-          "GND",
-          "VBATFUS"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
