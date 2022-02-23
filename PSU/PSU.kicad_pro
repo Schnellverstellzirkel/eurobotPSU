@@ -385,7 +385,8 @@
           "/12VOUTPOSTEMER",
           "/12VOUTPREIND",
           "/5VOUTPREIND",
-          "/VBAT",
+          "/VBATPOSTSWITCH",
+          "/VBATPRESWITCH",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",

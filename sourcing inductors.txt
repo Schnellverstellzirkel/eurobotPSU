@@ -1,0 +1,7 @@
+300 uH 3 A
+https://fr.farnell.com/murata-power-solutions/1430430c/inductance-300h-3-0a/dp/1077025?st=300uh%203a
+150uH 5 A
+
+======================
+Select inductor type to hae a cutoff frequency for the LC filter under 1kHz
+
